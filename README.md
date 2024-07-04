@@ -1,1 +1,1 @@
-# codealpha_tasks
+This repository contains code for predicting Netflix (NFLX) stock prices using Long Short-Term Memory (LSTM) neural networks. LSTM networks are particularly effective for time series prediction tasks due to their ability to capture long-term dependencies in sequential data.
